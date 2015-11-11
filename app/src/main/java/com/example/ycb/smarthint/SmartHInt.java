@@ -15,6 +15,11 @@ public class SmartHInt extends TextView{
     Context context;
     private int mBackColor = 0xFFFFFFFF;
 
+    /**
+     * 
+     * @param context
+     */
+
     public SmartHInt(Context context) {
         super(context);
         this.context = context;
